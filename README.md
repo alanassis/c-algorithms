@@ -1,2 +1,2 @@
 # cpp-algorithms
-A repository for practicing algorithms in C++
+A repository for practicing algorithms in C & C++
