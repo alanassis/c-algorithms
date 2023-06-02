@@ -1,2 +1,2 @@
-# c-algorithms
-A repository for practicing algorithms in C.
+# rust-algorithms
+A repository for practicing algorithms in Rust.
