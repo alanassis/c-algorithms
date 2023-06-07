@@ -1,2 +1,2 @@
-# rust-algorithms
-A repository for practicing algorithms in Rust.
+# practicing-rust
+A repository for practicing Rust.
